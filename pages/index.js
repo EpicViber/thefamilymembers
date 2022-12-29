@@ -12,12 +12,12 @@ export default function Home() {
       <main>
         <Header title="THE FAMILY" />
         <p className="description">
-          A group owned by a few idiots on <code>discord</code>
+          <code>A group owned by a few idiots on discord</code>
         </p>
 
-        <img src="https://cdn.discordapp.com/avatars/500649100316901376/a_e1097fd6d54d0b697e5f5838f3ec3f8c.gif?size=4096" alt="Epic Vibe"></img>
+        
       </main>
-
+      <img src="https://cdn.discordapp.com/avatars/500649100316901376/a_e1097fd6d54d0b697e5f5838f3ec3f8c.gif?size=4096" alt="Epic Vibe"></img>
       <Footer />
     </div>
   )
