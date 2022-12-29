@@ -1,5 +1,6 @@
 html,
 body {
+  background: linear-gradient(#94b8b8, #8585ad);
   padding: 0;
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell,
@@ -20,7 +21,7 @@ main {
 }
 
 code {
-  background: linear-gradient(#94b8b8, #8585ad);
+  background: linear-gradient(#f2c2db, #ffd9ed);
   border-radius: 5px;
   padding: 0.75rem;
   font-family: Menlo, Monaco, Lucida Console, Courier New, monospace;
