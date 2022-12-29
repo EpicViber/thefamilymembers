@@ -16,10 +16,11 @@ export default function Home() {
           A group owned by a few idiots on <code>discord</code>
         </p>
 
-        <img src="https://cdn.discordapp.com/avatars/500649100316901376/a_e1097fd6d54d0b697e5f5838f3ec3f8c.gif?size=4096" alt="Epic Vibe"></img>
       </main>
 
       <Footer />
     </div>
   )
 }
+
+<img src="https://cdn.discordapp.com/avatars/500649100316901376/a_e1097fd6d54d0b697e5f5838f3ec3f8c.gif?size=4096" alt="Epic Vibe"></img>
