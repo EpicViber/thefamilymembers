@@ -37,5 +37,9 @@ code {
 }
 
 img {
-  object-position: right top;
+  object-fit: contain;
+}
+
+.members {
+  background-position: top right;
 }
