@@ -37,7 +37,6 @@ code {
 }
 
 .members img {
-  width: 100%;
   object-fit: cover;
   border-radius: 10px;
 }
@@ -49,7 +48,4 @@ code {
   justify-content: center;
   align-items: center;
   gap: 16px;
-  max-width: 1400px;
-  margin: 0 auto;
-  padding: 20px 10px;
 }
