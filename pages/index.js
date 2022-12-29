@@ -6,8 +6,8 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>The Family</title>
-        <link rel="icon" href="/favicon.ico" />
+        <title>THE FAMILY</title>
+        // <link rel="icon" href="/favicon.ico" /> //
       </Head>
 
       <main>
